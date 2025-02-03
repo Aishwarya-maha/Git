@@ -1,0 +1,12 @@
+Git & Git hub:
+
+
+GitHub: Is the one example of remote repository hosting service. ex: GitLab, bitbucket, codebase etc
+
+Step:1:- Remote Repository
+Step:2:- Local Repository
+Step:3:- Staging Area
+Step:4:- Working Directory
+
+
+Git: is version control system(vlc
